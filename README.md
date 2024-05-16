@@ -1,8 +1,8 @@
-Introduction : 
+INTRODUCTION : 
 Understanding the distribution of ages within a population is crucial for various analyses and decision-making processes. 
 This project simplifies the process by providing a Python script to create a bar chart visualisation.
 
-Getting Started : 
+GETTING STARTED : 
 Data Preparation
 Ensure you have the relevant population data in an Excel file (e.g., "2.1_Population_dynamics.xlsx") located in the same directory as your script.
 The Excel file should contain a column with age data (e.g., 'Age').
